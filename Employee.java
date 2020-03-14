@@ -3,7 +3,7 @@ package jquery_ajax.bean;
 public class Employee {
 	private int empno;
 	private String ename;
-	
+	//幹
 	public Employee() {
 		super();
 	}
