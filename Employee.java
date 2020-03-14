@@ -1,5 +1,5 @@
 package jquery_ajax.bean;
-//7544541112
+//
 public class Employee {
 	private int empno;
 	private String ename;
